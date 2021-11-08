@@ -38,7 +38,7 @@
           title: "Hello, I'm Antonio",
           subTitle: l()("Full-stack Developer"),
           resumeLink:
-            "https://drive.google.com/file/d/1BKHR5D_N5IM1OfRMD1ldiUCqR0E_L-8B/view?usp=sharing",
+            "https://docs.google.com/document/d/1GLRW3F6RnTmZVTP8F8b8aCIbIuJULn-ZKThUQEhy_5I/edit?usp=sharing",
         },
         r = {
           github: "https://github.com/vantanova",
@@ -1432,7 +1432,7 @@
                   `My name is Antonio and I am a full-stack software engineer who’s grown up with a love for tech! I have always been interested in how powerful tech could be and how I could make an impact on the world, and in middle school, I saw firsthand! I participated in an after-school program where I built simple Arduino machines and programmed them in the Adafruit IDE. After that, in high school, I experimented with HTML and CSS to create basic websites. However not much later after, all my peers and friends were applying to colleges and I enrolled soon after, not knowing any other paths.
 
                   I felt like the aspect of creativity and true expression found in programming were absent in the career path I pursued in college. Fortunately, I discovered an amazing software engineering boot camp, App Academy, which promised to grant me the skills to become a real developer! I was nervous, scared, excited, and happy in a flurry of emotions; and I applied with a burning desire deep inside to complete the course and reignite the passion I had been missing.
-                  
+
                   After completing the 1000+ hour course, I have gained experience with JavaScript, Python, React / Redux, PostgreSQL, and more! Nevertheless, I have so much more to learn and I can’t wait to reach those new heights!`
                 )
               )
