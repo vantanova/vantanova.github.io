@@ -179,7 +179,9 @@
               company: "Beam Dental",
               companylogo: "/assets/beam.png",
               date: "Jun 2021 \u2013 Oct 2021",
-              desc: "Obtained experience within a professional working environment using Ruby on Rails",
+              desc: `Excelled in the rapid learning of a new stack with Ruby on Rails and React on a professional level while also:
+                      - Implementing testing best practices with RSpec and Jest. - Following standard version control with the deployment pipeline.
+                      - Adhering to HIPAA constraints on insurance information. Demonstrated software engineering growth in the weekly completion of new pitches from initial planning through successful integration with production.`,
             },
           ],
         },
