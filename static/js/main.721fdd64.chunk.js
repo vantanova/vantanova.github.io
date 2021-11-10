@@ -220,16 +220,16 @@
               about: `Aurora is a clone of Quora with an added "ranking" of questions by expertise level. The expertise level ranking allows the questions to be easily accessed by novice, intermediate and expert levels of difficulty.`,
             },
             {
-              title: "Adora",
+              title: "Speedylink (WIP)",
               subtitle:
-                "JavaScript, React / Redux, Python, Flask / SQLAlchemy, HTML5, CSS, PostgreSQL, Docker",
+                "JavaScript, React / Redux, Ruby, Ruby on Rails, HTML5, CSS, PostgreSQL, Docker",
               logo_path: "whatevernote.gif",
-              certificate_link: "https://adora-react.herokuapp.com//",
-              alt_name: "adora",
+              certificate_link: "#",
+              alt_name: "speedylink",
               color_code: "#001C55",
               certificate_link2: "https://github.com/vantanova/adora",
               about:
-                "Adora is social media application with stickers! Stickers are special awards that a user can grant towards other users posts. Collect as many stickers as you can!",
+                "Speedylink is meant to solve the problem of too many links. Often times I have tons of browser tabs open, and I use some of them maybe once or twice every 15 minutes. Speedylink alleviates that problem by managing them in an online interface for easy navigation!",
             },
           ],
         },
