@@ -1296,7 +1296,6 @@
                         "div",
                         {
                           className: "cert-header",
-                          style: { backgroundColor: e.color_code },
                         },
                         l.a.createElement("img", {
                           className: "logo_img",
